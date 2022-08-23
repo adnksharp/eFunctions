@@ -7,7 +7,8 @@ Control de pines de salida de la placa nodeMCU ESP8266 usando funciones.
 
 ## Hardware y software necesarios
 - Placa de desarrollo nodeMCU ESP8266.
-- 8 resistencias entre $\displaystyle 220\Omega$ y $\displaystyle 470\Omega$
+- 8 resistencias entre $\displaystyle 220\Omega$ y $\displaystyle 470\Omega$.
+- 8 LEDs.
 - [Arduino IDE](https://www.arduino.cc/en/software) o [Arduino CLI](https://arduino.github.io/arduino-cli/0.23/installation/).
 
 ## Funcionamiento
